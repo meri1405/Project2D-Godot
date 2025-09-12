@@ -1,15 +1,15 @@
 [gd_scene load_steps=15 format=3 uid="uid://c3lddyn0fnn1e"]
 
-[ext_resource type="Script" uid="uid://c85pk27sc71ds" path="res://level_1.gd" id="1_kidjj"]
+[ext_resource type="Script" path="res://level_1.gd" id="1_kidjj"]
 [ext_resource type="Texture2D" uid="uid://cmx6ev0y0fkb7" path="res://Pixel Adventure 1/Free/Terrain/Terrain (16x16).png" id="2_65pcf"]
 [ext_resource type="Texture2D" uid="uid://c2urtr66gce31" path="res://Pixel Adventure 1/Free/Background/Green.png" id="2_u16a4"]
 [ext_resource type="PackedScene" uid="uid://dt1tth682nenl" path="res://Scenes/character_body_2d.tscn" id="3_65pcf"]
 [ext_resource type="PackedScene" uid="uid://btdfqc4qp1j67" path="res://Checkpoint/Level_1/checkpoint.tscn" id="4_a0j4s"]
 [ext_resource type="PackedScene" uid="uid://m4c8hp47kokd" path="res://UI/pause_menu.tscn" id="5_jikk4"]
 [ext_resource type="Texture2D" uid="uid://cbhtkwag7pn5d" path="res://Pixel Adventure 1/Free/Menu/Buttons/Settings.png" id="7_smwyr"]
-[ext_resource type="PackedScene" uid="uid://dflyeou82jyro" path="res://Scenes/saw.tscn" id="8_tedvs"]
-[ext_resource type="PackedScene" uid="uid://cibklyepbriw8" path="res://Scenes/Spike.tscn" id="9_gyeet"]
-[ext_resource type="PackedScene" uid="uid://ck1mdn7rmkyp7" path="res://Scenes/Fan.tscn" id="10_2wi7h"]
+[ext_resource type="PackedScene" path="res://Scenes/saw.tscn" id="8_tedvs"]
+[ext_resource type="PackedScene" path="res://Scenes/Spike.tscn" id="9_gyeet"]
+[ext_resource type="PackedScene" path="res://Scenes/Fan.tscn" id="10_2wi7h"]
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_jikk4"]
 texture = ExtResource("2_65pcf")

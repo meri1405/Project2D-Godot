@@ -1,7 +1,0 @@
-[gd_resource type="AtlasTexture" load_steps=2 format=3 uid="uid://cfwfyigiqguc8"]
-
-[ext_resource type="Texture2D" uid="uid://cmx6ev0y0fkb7" path="res://Pixel Adventure 1/Free/Terrain/Terrain (16x16).png" id="1_a7ocv"]
-
-[resource]
-atlas = ExtResource("1_a7ocv")
-region = Rect2(192.038, 16.3411, 16.012, 15.7598)
